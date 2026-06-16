@@ -2,3 +2,4 @@ Microsoft.WindowsAppRuntime*
 Microsoft.VCLibs*
 KnifMelti.WAU-Settings-GUI
 Romanitho.Winget-AutoUpdate
+Microsoft.Office
