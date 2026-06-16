@@ -1,2 +1,4 @@
 Mozilla.Firefox
 Google.Chrome
+Microsoft.WindowsAppRuntime
+Microsoft.VCLibs
