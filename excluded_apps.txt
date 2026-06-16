@@ -1,7 +1,4 @@
-Mozilla.Firefox
-Google.Chrome
 Microsoft.WindowsAppRuntime*
 Microsoft.VCLibs*
-8x8.Work
 KnifMelti.WAU-Settings-GUI
 Romanitho.Winget-AutoUpdate
